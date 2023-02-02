@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @orikahmadov
-- 👀 I’m interested in cybersecurity, python and women
+- 👀 I’m interested in cybersecurity, python
 - 🌱 I’m currently learning any shit comes accross 
 - 💞️ I’m looking to collaborate on life
 - 📫 How to reach me : orkhan.ahmadov@gmail.com
