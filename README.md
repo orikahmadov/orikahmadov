@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orikahmadov
 - 👀 I’m interested in cybersecurity, python
 - 🌱 I’m currently learning any shit comes accross 
-- 💞️ I’m looking to collaborate on life
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me : orkhan.ahmadov@gmail.com
 
 <!---
